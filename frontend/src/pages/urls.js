@@ -1,0 +1,5 @@
+export const ResumesUrl = "/"
+export const ResumeCreateUrl = "/resume-create"
+export const ResumeEditUrl = "/resume-edit"
+export const ResumeCardUrl = "/resume-card"
+export const ResumeLinkUrl = "/resume-link"
